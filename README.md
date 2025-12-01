@@ -103,7 +103,7 @@ If given additional time and resources, I would expand the agent in the followin
 - Voice Interface Integration: Enable patients to interact via voice for patients with visual disabilities.
 - Integration with EHR Systems: Pull instructions directly from provider notes to reduce manual input.
 - Interactive Visual Aids: Provide diagrams or animations so that it is for patients to understand the information
-- Feedback Loop to Providers 🔄: Allow patients to flag confusion, with summaries sent back to providers.
+- Feedback Loop to Providers: Allow patients to flag confusion, with summaries sent back to providers.
 
 ## Running the Agent
 
