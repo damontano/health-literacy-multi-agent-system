@@ -1,0 +1,6 @@
+apscheduler==3.10.4
+dateparser==1.2.0
+google-api-python-client==2.151.0
+google-auth==2.35.0
+google-auth-oauthlib==1.2.1
+
